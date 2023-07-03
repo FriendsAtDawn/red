@@ -2,11 +2,11 @@
 author:
   name: "Roberto Insfrán"
 date: 2023-04-09
-linktitle: Unas vacaciones
+linktitle: judith
 type:
 - post
 - posts
-title: Unas vacaciones
+title: Judith
 weight: 10
 series:
 - Hugo 101
