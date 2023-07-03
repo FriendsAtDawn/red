@@ -6,6 +6,4 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-No, ninguna cosa.
-
-I
+Poemas.
