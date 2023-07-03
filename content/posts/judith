@@ -1,4 +1,21 @@
-# Judith.
++++
+title = "Judith"
+description = ""
+type = ["posts","post"]
+tags = [
+    "Donne",
+    "judith",
+    "original",
+       ]
+date = "2023-07-01"
+categories = [
+    "nothing",
+    "like",
+]
+series = ["Hugo 101"]
+[ author ]
+  name = "Hugo Authors"
++++
 
 Todos conocemos a Judith
 pocos conocemos su sonrisa
