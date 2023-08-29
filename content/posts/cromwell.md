@@ -5,7 +5,7 @@ type = ["posts","post"]
 tags = [
     "sonnet",
     "borges",
-    "traslate"
+    "traslate",
     "last words",
        ]
 date = "2023-07-09"
