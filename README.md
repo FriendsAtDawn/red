@@ -1,4 +1,4 @@
-# red
+# Red
 
 A couple of poems deploying throught cloudflare. Because code is poetry, and poetry is magic.
 
