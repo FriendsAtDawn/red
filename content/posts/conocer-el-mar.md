@@ -44,7 +44,7 @@ que a la tarde sale de una fea gruta
 y pulido y serio y mirando lejos  
 corre hasta mojarse sin elegir ruta?  
 
-_Si quiero>_, dice él, _ir a la montaña  
+_Si quiero_, dice él, _ir a la montaña  
 Quiero conocer Bruselas mañana,  
 pues creo que el sueño de todo cangrejo  
 fue siempre viajar y viajar muy lejos..._
