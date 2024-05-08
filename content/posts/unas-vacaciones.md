@@ -1,4 +1,4 @@
----
+e---
 author:
   name: "Roberto Insfrán"
 date: 2023-04-09
@@ -14,7 +14,7 @@ series:
 
 
 Patricia Durañona y Ximena Sariñana  
-se hallaron, diseño del destino, a solas:  
+se hallaronse, diseño del destino, a solas:  
 pusiéronse a reír como añiñadas  
 Patricia Durañona y Ximena Sariñana
 
@@ -32,7 +32,6 @@ Piminia Sariñana y Xatreca Darañana
 fueron las dos a ponerse las pestañas  
 y se hicieron el pelo en todo el entrevero  
 Piminia	Sariñana y Xatreca Darañana
-
 
 Pitreca Sumaroña y Xamrina Daniraña  
 ¡juntas de vacaciones a las montañas!  
