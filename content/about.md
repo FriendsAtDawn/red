@@ -6,4 +6,4 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Poemas.
+Los poemas están dedicados a una sola persona: mi esposa.
