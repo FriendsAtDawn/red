@@ -1,6 +1,6 @@
 baseURL = "/"
 title   = "Poems, everybody"
-languageCode = "en-us"
+languageCode = "es-es"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
