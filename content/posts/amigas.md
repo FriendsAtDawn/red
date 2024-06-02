@@ -15,4 +15,4 @@ series:
 Marie Goulding solía pedir por las mentiras  
 Liz Rogêt prefería conocer la verdad  
 Pero se conocieron y se hicieron amigas  
-Y ahora donde va una, allí la otra va.  
+Y ahora donde va una, allí la otra está.  

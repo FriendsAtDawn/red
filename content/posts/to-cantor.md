@@ -17,11 +17,11 @@ series = ["Hugo 101"]
   name = "Hugo Authors"
 +++
 
-Oh Cantor, Cantor,  
-bitter pale Cantor,  
-you pale ascetic,  
-your twist was epic,  
+O Cantor, Cantor,  
+O bitter pale Cantor,  
+you pale as chalk 'cetic,  
+your twist was just epic,  
 so I live in silence,  
 in sadness I crave,  
-all for that book,  
-you wrote and I read.  
+because you wrote book,  
+because I was read.  
