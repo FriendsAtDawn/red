@@ -14,12 +14,12 @@ series = ["Hugo 101"]
   name = "Hugo Authors"
 +++
 
-Stenr Sack siempre quiso feliz a su esposa  
+Stenr Sack siempre quiso ver feliz a su esposa  
 Día y noche comerciaba en la feria local  
 Y ella cada día estaba más nerviosa,  
 más triste, más contrita y menos natural.  
 
-<<¿Quien sabe de Sten Sack?>>; pregunto en serio  
+_¿Quien sabe de Stenr Sack?_; pregunto en serio  
 ya no lo vemos y ni ha vuelto por aca.  
-<<En donde está quizás no es el misterio 
-sino saber quien es ahora el Stern Sack.>>  
+_En adonde se fue quizás no está el misterio 
+sino en saber quien es hoy el Stenr Sack._  
