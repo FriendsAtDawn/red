@@ -1,3 +1,17 @@
+---
+author:
+  name: "Roberto Insfrán"
+date: 2025-04-09
+linktitle: Lily was here
+type:
+- post
+- posts
+title: Lily was here
+weight: 10
+series:
+- Hugo 101
+---
+
 ## Lily was here.
 
 |      |                                                              |
